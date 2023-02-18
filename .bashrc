@@ -1,6 +1,9 @@
 # put this into the .bash_profile to be included in the sync
 # test -f ~/BashSync/.bashrc && . ~/BashSync/.bashrc
 
+#keep sync
+git pull
+
 # directory aliases
 alias ghub="cd ~/Documents/GitHub"
 
