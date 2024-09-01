@@ -3,6 +3,7 @@
 
 # directory aliases
 alias ghub="cd ~/Documents/GitHub"
+alias ls="lsd -al"
 
 #status function
 exitstatus()
